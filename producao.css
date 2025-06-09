@@ -8,7 +8,7 @@ body {
 }
 
 .cabecalho {
-  background-color: #008000;
+  background-color: #4F4F4F;
   color: white;
   text-align: center;
   padding: 30px 15px;
@@ -31,7 +31,7 @@ img.br-3 {
 }
 
 h2, h3 {
-  color: #008000;
+  color: #4F4F4F;
   margin-bottom: 15px;
 }
 
@@ -41,7 +41,7 @@ p {
 }
 
 .btn-primary {
-  background-color: #008000;
+  background-color: #4F4F4F;
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -52,11 +52,11 @@ p {
 }
 
 .btn-primary:hover {
-  background-color: #008000;
+  background-color: #4F4F4F;
 }
 
 .footer {
-  background-color: #008000;
+  background-color: #4F4F4F;
   color: white;
   text-align: center;
   padding: 10px;

@@ -8,14 +8,14 @@ body {
 }
 
 .cabecalho {
-  background-color: #f11616;
+  background-color: #ad1457;
   color: white;
   text-align: center;
   padding: 30px 15px;
 }
 
 .cabecalho h3 {
-  color: white;
+  color: #d2f0ff;
   font-weight: normal;
 }
 
@@ -31,7 +31,7 @@ img.br-3 {
 }
 
 h2, h3 {
-  color: #f11616;
+  color: #ad1457;
   margin-bottom: 15px;
 }
 
@@ -41,7 +41,7 @@ p {
 }
 
 .btn-primary {
-  background-color: #f11616;
+  background-color: #ad1457;
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -52,11 +52,11 @@ p {
 }
 
 .btn-primary:hover {
-  background-color: #f11616;
+  background-color: #ad1457;
 }
 
 .footer {
-  background-color: #f11616;
+  background-color: #ad1457;
   color: white;
   text-align: center;
   padding: 10px;

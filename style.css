@@ -2,18 +2,18 @@ body{
     padding: 0;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color:#ffffff
+    background-color:#c8e6c9
 }
 
 .cabecalho{
     color: white;
-    background-color: black;
+    background-color:#2e7d32;
     text-align: center;
     padding: 30px;
 }
 
 .cabecalho h3{
-    color: rgb(69, 217, 61);
+    color: #66bb6a;
 }
 
 p .alinha{
